@@ -34,3 +34,5 @@ http://localhost:3000
 ```bash
 sudo docker compose down
 ```
+
+#### Note: You do not need to use `sudo` if you are using Mac OS, Windows OS or docker desktop. 
